@@ -3,7 +3,7 @@ layout: article
 title: help
 modified:
 author: uber
-categories: ubermarianne
+categories: uber
 excerpt: A beautiful etc by a beautiful ie
 tags: []
 image:

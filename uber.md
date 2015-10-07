@@ -1,12 +1,17 @@
 ---
-layout: article
-title: uber
-date: 2015-10-06
+layout: archive
+title: "Uber"
+date: 2015-10-06 22:37:28
 modified:
-excerpt: UM PLEASE  
+excerpt: "Stuff by Marianne Scott"
+tags: []
 image:
   feature:
   teaser:
-  thumb:
-ads: false  
 ---
+
+<div class="tiles">
+{% for post in site.categories.uber %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
