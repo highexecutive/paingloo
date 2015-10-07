@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: uber
+  url: http:localhost:4000/uber/
+  excerpt: Marianne Scott
+  image: uber.gif
+  categories: uber
+
+- title: high
+  url: /high/
+  excerpt: Stephanie Scott
+  image: high.gif
+
+- title: tohuw
+  url: /tohuw/
+  excerpt: Ron Adams
+  image: tohuw.gif
+
+- title: secret
+  url: /secret/
+  excerpt: Unspecified
+  image: uber.gif

@@ -1,0 +1,16 @@
+---
+layout: article
+title: help
+modified:
+author: uber
+categories: uboh
+excerpt: A beautiful etc by a beautiful ie
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2015-10-06T22:18:45-04:00
+---
+
+Um...what?  I hate this.
