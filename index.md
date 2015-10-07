@@ -1,8 +1,9 @@
 ---
 layout: archive
 permalink:
-title:
+title: Paingloo
 image:
+  feature: funny.gif
 
 ---
 
