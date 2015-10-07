@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Uber"
+permalink: /uber/
 date: 2015-10-06 22:37:28
 modified:
 excerpt: "Stuff by Marianne Scott"
