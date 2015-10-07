@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink:
-title: Paingloo
+title: 
 image:
   feature: funny.gif
 
